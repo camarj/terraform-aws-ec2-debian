@@ -1,5 +1,5 @@
-# terraform_aws_ec2_ubuntu
-Despliegue de instancia EC2 con ubuntu en aws con terraform.
+# terraform_aws_ec2_debian
+Despliegue de instancia EC2 con debian en aws con terraform.
 
 Para iniciar el proyecto
 
